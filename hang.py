@@ -242,7 +242,7 @@ def main():
         if hang.checkLost():
             # announce
             score = 0
-            print("Lose -> ngu")
+            print("Lose -> ngu lol")
             print("the word is " + blank.word)
             pygame.time.delay(5000)
             # reset or end game
